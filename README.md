@@ -42,7 +42,7 @@ You can clone or add other sections if needed and you can add or change the imag
    Clone this repository to your local machine using Git or Github Pages.
    
    ```console
-   git clone https://github.com/your-username/portfolio-template.git
+   git clone https://github.com/LuisGon18/Create-Your-Own-Portfolio-Website-With-My-Template
    ```
    
 
