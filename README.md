@@ -23,6 +23,6 @@ After reading the whole code and understanding it, feel free to customize the co
 
 ### Here are some tips for styling your page
 
-- **Website Theme Colors:** You can use [Coolors](https://coolors.co/) https://coolors.co/ to generate a theme for your website and the colors codes it provides on your css, or you can also use a brwoser extension such as [Amazing color picker]([https://coolors.co/](https://microsoftedge.microsoft.com/addons/detail/amazing-color-picker/ckanipeahakkplheflddneeekginnkod) to browse websites you like and draw inspiration from their templates.
-- **Background Images:** Use websites such as [vecteezy]([https://coolors.co/](https://www.vecteezy.com/free-vector/website-background-green) for background images.
-- **Socials Logos:** For your socials Ive added each social logo and hyperlinked it to my pages, use [Icons8]([https://coolors.co/](https://icons8.com/icons) to search for your socials logo in various styles.
+- **Website Theme Colors:** You can use [Coolors](https://coolors.co/) to generate a theme for your website and the colors codes it provides on your css, or you can also use a brwoser extension such as [Amazing color picker](https://microsoftedge.microsoft.com/addons/detail/amazing-color-picker/ckanipeahakkplheflddneeekginnkod) to browse websites you like and draw inspiration from their templates.
+- **Background Images:** Use websites such as [vecteezy](https://www.vecteezy.com/free-vector/website-background-green) for background images.
+- **Socials Logos:** For your socials Ive added each social logo and hyperlinked it to my pages, use [Icons8](https://icons8.com/icons) to search for your socials logo in various styles.
