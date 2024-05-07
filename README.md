@@ -20,4 +20,9 @@ Before trying to customize the template take your time to read the code explanat
 
 After reading the whole code and understanding it, feel free to customize the content and styles to match your personal branding and preferences. You can modify the HTML to update project details, skills, and contact information. Similarly, you can adjust the CSS to change colors, fonts, layout, etc.
 
-HTML Code
+
+### Here are some tips for styling your page
+
+- **Website Theme Colors:** You can use [Coolors](https://coolors.co/) https://coolors.co/ to generate a theme for your website and the colors codes it provides on your css, or you can also use a brwoser extension such as [Amazing color picker]([https://coolors.co/](https://microsoftedge.microsoft.com/addons/detail/amazing-color-picker/ckanipeahakkplheflddneeekginnkod) to browse websites you like and draw inspiration from their templates.
+- **Background Images:** Use websites such as [vecteezy]([https://coolors.co/](https://www.vecteezy.com/free-vector/website-background-green) for background images.
+- **Socials Logos:** For your socials Ive added each social logo and hyperlinked it to my pages, use [Icons8]([https://coolors.co/](https://icons8.com/icons) to search for your socials logo in various styles.
