@@ -25,6 +25,6 @@ You can clone or add other sections if needed and you can add or change the imag
 
 ### Here are some tips for styling your page
 
-- **Website Theme Colors:** You can use [Coolors](https://coolors.co/) to generate a theme for your website and the colors codes it provides on your css, or you can also use a brwoser extension such as [Amazing color picker](https://microsoftedge.microsoft.com/addons/detail/amazing-color-picker/ckanipeahakkplheflddneeekginnkod) to browse websites you like and draw inspiration from their templates.
+- **Website Theme Colors:** You can use [Coolors](https://coolors.co/) to generate a theme for your website and use the colors codes it provides on your css, or you can also use a brwoser extension such as [Amazing color picker](https://microsoftedge.microsoft.com/addons/detail/amazing-color-picker/ckanipeahakkplheflddneeekginnkod) to browse websites you like and draw inspiration from their themes.
 - **Background Images:** Use websites such as [vecteezy](https://www.vecteezy.com/free-vector/website-background-green) for background images.
-- **Socials Logos:** For your socials Ive added each social logo and hyperlinked it to my pages, use [Icons8](https://icons8.com/icons) to search for your socials logo in various styles.
+- **Socials Logos:** For your socials I've added each social logo and hyperlinked it to my pages, use [Icons8](https://icons8.com/icons) to search for your socials logo in various styles. Add as many socials as you like and remember to hyperlinked them to your personal pages.
