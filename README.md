@@ -60,10 +60,10 @@ You can clone or add other sections if needed and you can add or change the imag
 
 5. **Push Changes to GitHub:**
 
-         ```console
-   git add .
-   git commit -m "Update website content"
-   git push origin main
+   ```console
+        git add .
+        git commit -m "Update website content"
+        git push origin main
    ```
 
    Push your changes to the GitHub repository you created.
