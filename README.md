@@ -46,23 +46,29 @@ You can clone or add other sections if needed and you can add or change the imag
    ```
    
 
-3. **Edit the Website:**
+2. **Edit the Website:**
 
    Customize the website according to your preferences. You can modify the HTML, CSS, and JavaScript files to personalize the content and design.
 
-4. **Test Locally:**
+3. **Test Locally:**
 
    Test the website locally to ensure everything works as expected. Open the `index.html` file in your web browser to preview the changes.
 
-5. **Create a New GitHub Repository:**
+4. **Create a New GitHub Repository:**
 
    If you haven't already, create a new repository on GitHub where you will host your website.
 
-6. **Push Changes to GitHub:**
+5. **Push Changes to GitHub:**
+
+         ```console
+   git add .
+   git commit -m "Update website content"
+   git push origin main
+   ```
 
    Push your changes to the GitHub repository you created.
 
-7. **Enable GitHub Pages:**
+6. **Enable GitHub Pages:**
 
    - Navigate to your repository on GitHub.
    - Go to the "Settings" tab.
@@ -71,12 +77,12 @@ You can clone or add other sections if needed and you can add or change the imag
    - Click "Save".
    - GitHub Pages will now build and deploy your website. You'll find the URL of your hosted website in the "GitHub Pages" section.
 
-8. **Custom Domain (Optional):**
+7. **Custom Domain (Optional):**
 
    If you have a custom domain, you can configure it to point to your GitHub Pages site. Follow the instructions in the "Custom Domain" section of the GitHub Pages settings.
 
-9. **Update README:**
+8. **Update README:**
 
    Update the `README.md` file with information about your website and provide the URL of your hosted GitHub Pages site.
 
-10. **Share Your Website:**
+9. **Share Your Website:**
