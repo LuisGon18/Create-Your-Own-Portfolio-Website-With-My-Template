@@ -37,6 +37,8 @@ You can clone or add other sections if needed and you can add or change the imag
 
 ## Hosting Instructions
 
+To host your website for free, we'll utilize GitHub Pages. Simply follow these steps:
+
 1. **Clone the Repository:**
 
    Clone this repository to your local machine using Git or Github Pages.
