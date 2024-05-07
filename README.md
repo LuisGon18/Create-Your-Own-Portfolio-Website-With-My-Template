@@ -16,9 +16,11 @@ The template is built using HTML, and CSS. It is used to showcase your projects,
 
  ## Customization
  
-Before trying to customize the template take your time to read the code explanation below.
+Before trying to customize the template take your time to read and understand the code, I've added plenty of comments for this.
 
-After reading the whole code and understanding it, feel free to customize the content and styles to match your personal branding and preferences. You can modify the HTML to update project details, skills, and contact information. Similarly, you can adjust the CSS to change colors, fonts, layout, etc.
+After reading the whole code and understanding it, feel free to customize the content and styles to match your personal branding and preferences. You can modify the HTML to update project details, skills, and contact information, similarly, you can adjust the CSS to change colors, fonts, layout, etc.
+
+You can clone or add other sections if needed and you can add or change the images to your liking.
 
 
 ### Here are some tips for styling your page
