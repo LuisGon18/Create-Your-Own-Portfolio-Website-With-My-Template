@@ -190,7 +190,7 @@ text-align: right;
 }
 
 .image img {
-width: 200px; /* Adjust width as needed */
+width: 100px; /* Adjust width as needed */
 border-radius: 10%;
 margin-right: 200px; /* Add margin to the left side of image */
 }
@@ -224,7 +224,7 @@ margin-right: 200px; /* Add margin to the left side of image */
 }
 
 .image img {
-  width: 400px; /* Adjust width as needed */
+  width: 300px; /* Adjust width as needed */
   margin-right: 200px; /* Add margin to the left side of image */
 }
 
@@ -296,26 +296,31 @@ color: white;
 .github img {
   width: 30px;
 }
-.Projects{
+
+
+
+
+
+.Section1{
     font-family: Arial, sans-serif;
     background-color: white;
     padding: 20px;
     margin-top: -20px;
     margin-bottom: 20px;
 
-}.projects-content{
+}.Section1-content {
     background-color: white;
-}.projects-content h2{
+}.Section1-content  h2{
     font-size: 30px;
     color: #3C9B73;
     margin-bottom: 10px;
-}.projects-content p{
+}.Section1-content  p{
     color: Black;
     text-align: justify;
     margin-left: 20px;
-}.projects-content h3{
+}.Section1-content  h3{
     color:#222327;
-}.projects-content a{
+}.Section1-content  a{
     color:#64A8FF;
     margin-left: 20px;
 }.image1 {
